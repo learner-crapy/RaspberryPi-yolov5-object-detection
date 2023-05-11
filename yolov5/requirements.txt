@@ -1,0 +1,13 @@
+opencv-contrib-python-headless==4.5.5.62
+opencv-python==4.5.5.64
+opencv-python-headless==4.5.5.62
+torch==1.11.0
+torchaudio==0.7.0a0+ac17b64
+torchvision==0.12.0
+tqdm==4.63.0
+typing_extensions==4.1.1
+Werkzeug==2.0.3
+zipp==3.7.0
+
+
+#pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-contrib-python-headless==4.5.5.62

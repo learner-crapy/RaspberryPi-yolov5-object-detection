@@ -1,0 +1,1 @@
+python train.py --img 416 --batch 16 --epochs 150 --data ./Sleep_Leaving-1/data.yaml --weights yolov5s.pt --cache
