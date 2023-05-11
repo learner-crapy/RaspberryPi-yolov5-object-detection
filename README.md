@@ -29,8 +29,10 @@
 
 2、启动本地计算机连接程序，连接上树莓派后自动开始视频，访问浏览器的本地的5000端口即可查看检测结果；
 
-'''
+```bash
 python detect.py --weights runs/train/exp3/weights/best.pt --source http://192.168.43.24:5000/video_feed
+```
+
 
 ## 注意
 
